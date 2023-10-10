@@ -1,0 +1,17 @@
+.itemPage {
+    margin-top: 0px;
+}
+
+.number {
+    margin-left: 10px;
+}
+
+.deleteButton {
+    margin-left: 15px;
+    padding: 5px 3px;
+    width: 65px;
+    height: 30px;
+    border-radius: 4px;
+    color: rgb(156, 11, 11);
+
+}
